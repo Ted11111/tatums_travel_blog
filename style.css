@@ -1,0 +1,23 @@
+*  {
+    font-family: Arial;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+body {
+    background-color: goldenrod;
+}
+
+article {
+    background-image: linear-gradient(red, yellow);
+}
+
+/* HELLOOOOOOOOOOOOOOOOO */ 
