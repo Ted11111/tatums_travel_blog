@@ -1,23 +1,58 @@
 *  {
     font-family: Arial;
+    text-align: justify;
 }
 
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    text-shadow: 1px;
 }
 
 h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    text-shadow: 1px;
+
 }
 
 body {
     background-color: goldenrod;
+    
 }
 
+header {
+    border-radius: 5px;
+    box-shadow: 1px 1px;
+    text-shadow: 1px;
+
+}
 article {
     background-image: linear-gradient(red, yellow);
+    border-radius: 5px;
+    box-shadow: 1px 1px;
 }
 
+img {
+    display: block;
+    height: 20%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    
+}
+p {
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+
+.subheading {
+    border-bottom: 1px solid black;
+}
 /* HELLOOOOOOOOOOOOOOOOO */ 
